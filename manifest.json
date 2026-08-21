@@ -1,6 +1,6 @@
 {
     "name": "CrystalClear",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Konlet/grain-rot-crystal-clear",
     "description": "Client-side microphone noise suppression. Cuts fans, AC, and keyboard rattle from proximity chat. Strength is in config.ini.",
     "dependencies": [

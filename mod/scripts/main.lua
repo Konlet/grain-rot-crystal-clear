@@ -5,7 +5,7 @@
 ]]
 
 local MOD_TAG = "[CrystalClear]"
-local MOD_VERSION = "1.0.0"
+local MOD_VERSION = "1.0.1"
 local INIT_GUARD = "__CRYSTAL_CLEAR_INITIALIZED"
 
 local DEFAULT_ENABLED = true

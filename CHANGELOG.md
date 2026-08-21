@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- `website_url` now points at the Konlet GitHub repo.
+
 ## 1.0.0
 
 Initial release.
